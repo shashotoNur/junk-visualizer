@@ -1,7 +1,13 @@
 # Junk Visualizer
 
-It does exactly what the title says it does.\
-Inspired from a friend's project.
+It does exactly what the title says it does. <br><br>
+Inspired from a friend's python project:
+
+```python
+print(f"Your pinus: 8{int(input('Enter the length of your pinus: '))*'='}D")
+```
+
+## Preview
 
 ![Preview](preview.png)
 
